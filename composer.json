@@ -1,0 +1,61 @@
+{
+    "name": "zicht/cms",
+    "description": "Zicht Online CMS",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Muhammed Akbulut",
+            "email": "muhammed@zicht.nl"
+        }
+    ],
+    "require": {
+        "php": "^5.6 || ^7.0",
+        "symfony/symfony": "^2.8",
+        "symfony/monolog-bundle": "^2.11",
+        "symfony/swiftmailer-bundle": "^2.3",
+        "sensio/distribution-bundle": "^5.0",
+        "sensio/framework-extra-bundle": "^3.0",
+        "sensio/generator-bundle": "^3.0",
+        "sonata-project/block-bundle": "^3.0",
+        "twig/twig": "^1.24",
+        "twig/extensions": "^1.3",
+        "doctrine/doctrine-bundle": "^1.6",
+        "doctrine/data-fixtures": "^1.1",
+        "doctrine/doctrine-fixtures-bundle": "^2.3",
+        "sonata-project/admin-bundle": "^3.1",
+        "jms/di-extra-bundle": "^1.7",
+        "jms/security-extra-bundle": "^1.6",
+        "knplabs/knp-menu-bundle": "^2.1",
+        "liip/imagine-bundle": "^1.5",
+        "stof/doctrine-extensions-bundle": "^1.2",
+        "gedmo/doctrine-extensions": "^2.4",
+        "zicht/admin-bundle": "^3.0",
+        "zicht/filemanager-bundle": "^4.3",
+        "zicht/framework-extra-bundle": "^4.1",
+        "zicht/menu-bundle": "^2.2",
+        "zicht/messages-bundle": "^2.2",
+        "zicht/moxiemanager-bundle": "^2.0",
+        "zicht/page-bundle": "^2.1",
+        "zicht/symfony-util": "^1.2",
+        "zicht/url-bundle": "^2.4",
+        "zicht/util": "^1.7"
+    },
+    "require-dev": {
+        "zicht/site-bundle": "^2.1"
+    },
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "moxiemanager/moxiemanager",
+                "version": "1.3.4",
+                "dist": {
+                    "url": "http://packages.dev3.zicht.intern/moxiemanager/moxiemanager-ent-1.3.4-php.zip",
+                    "type": "zip"
+                }
+            }
+        }
+    ]
+}
