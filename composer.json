@@ -39,7 +39,8 @@
         "zicht/page-bundle": "^2.1",
         "zicht/symfony-util": "^1.2",
         "zicht/url-bundle": "^2.4",
-        "zicht/util": "^1.7"
+        "zicht/util": "^1.7",
+        "zicht/itertools": "^2.8"
     },
     "require-dev": {
         "zicht/site-bundle": "^2.1"
