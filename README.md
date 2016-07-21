@@ -31,3 +31,10 @@ Add these lines to your projects composer.json
     },
     
 ```
+
+### Autoloading
+add `require_once __DIR__ .'/../app/autoload.php';` to the desired files.
+
+### Doctrine Migrations
+The doctrine migrations documentation should hand you configuration
+instruction about how to use it in your project
