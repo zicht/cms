@@ -28,8 +28,8 @@
         "zicht/messages-bundle":                "^2.4",
         "zicht/moxiemanager-bundle":            "^2.0",
         "zicht/page-bundle":                    "^2.2",
-        "zicht/symfony-util":                   "^1.2",
-        "zicht/url-bundle":                     "^2.4"
+        "zicht/symfony-util":                   "^1.3",
+        "zicht/url-bundle":                     "^2.5"
     },
     "require-dev": {
         "zicht/site-bundle":                    "^2.1"
