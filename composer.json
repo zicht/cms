@@ -25,7 +25,7 @@
         "stfalcon/tinymce-bundle":              "^2.1",
         "zicht/admin-bundle":                   "^3.3",
         "zicht/filemanager-bundle":             "^4.4",
-        "zicht/menu-bundle":                    "^2.4",
+        "zicht/menu-bundle":                    "^2.5",
         "zicht/messages-bundle":                "^2.4",
         "zicht/moxiemanager-bundle":            "^2.0",
         "zicht/page-bundle":                    "^2.2",
