@@ -22,7 +22,7 @@
         "doctrine/doctrine-migrations-bundle":  "^1.1",
         "liip/imagine-bundle":                  "^1.5",
         "stof/doctrine-extensions-bundle":      "^1.2",
-        "stfalcon/tinymce-bundle":              "^2.1",
+        "stfalcon/tinymce-bundle":              "^0.3",
         "zicht/admin-bundle":                   "^3.3",
         "zicht/filemanager-bundle":             "^4.4",
         "zicht/menu-bundle":                    "^2",
