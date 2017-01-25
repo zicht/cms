@@ -36,4 +36,5 @@ Add these lines to your projects composer.json
 add `require_once __DIR__ .'/../app/autoload.php';` to the desired files.
 
 # Maintainer(s)
-* Gerard van Helden <gerard@zicht.nl>
+* Rik van der Kemp <rik@zicht.nl>
+* Muhammed Akbulut <muhammed@zicht.nl>
