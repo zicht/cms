@@ -5,35 +5,8 @@ controlled package. The versioning and updating grants stability
 The packages installed through this package should act stable.
 
 ## Installation
-Simply require this package `composer require zicht/cms`
-
-### Scripts
-Add these lines to your projects composer.json
-
-```
-
-    "scripts": {
-        "post-install-cmd": [
-            "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::buildBootstrap",
-            "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::clearCache",
-            "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installAssets",
-            "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
-            "Zicht\\Bundle\\MoxieManagerBundle\\Composer\\ScriptHandler::createMoxieManagerSymlinks"
-        ],
-        "post-update-cmd": [
-            "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::buildBootstrap",
-            "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::clearCache",
-            "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installAssets",
-            "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
-            "Zicht\\Bundle\\MoxieManagerBundle\\Composer\\ScriptHandler::createMoxieManagerSymlinks"
-
-        ]
-    },
-    
-```
-
-### Autoloading
-add `require_once __DIR__ .'/../app/autoload.php';` to the desired files.
+See the [`zicht/cms-tutorial`](https://github.com/zicht/cms-tutorial) for documentation on how 
+to install the zicht/cms packages and for more documentation and examples.
 
 # Maintainer(s)
 * Rik van der Kemp <rik@zicht.nl>
