@@ -9,5 +9,4 @@ See the [`zicht/cms-tutorial`](https://github.com/zicht/cms-tutorial) for docume
 to install the zicht/cms packages and for more documentation and examples.
 
 # Maintainer(s)
-* Rik van der Kemp <rik@zicht.nl>
 * Muhammed Akbulut <muhammed@zicht.nl>
