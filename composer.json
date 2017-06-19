@@ -36,9 +36,6 @@
         "zicht/tinymce-bundle": "^1.0",
         "zicht/url-bundle": "^2.5"
     },
-    "require-dev": {
-        "zicht/site-bundle": "^2.1"
-    },
     "suggest": {
         "zicht/moxiemanager-bundle": "Moxiemanager integration. Use zicht/moxiemanager-bundle >= 3.0"
     }
