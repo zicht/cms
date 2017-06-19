@@ -36,10 +36,7 @@
         "zicht/symfony-util": "^1.3",
         "zicht/tinymce-bundle": "^1.0",
         "zicht/url-bundle": "^2.5"
-    },    
-    "require-dev": {
-        "phpunit/phpunit": "^4"
-    },
+    }, 
     "suggest": {
         "zicht/moxiemanager-bundle": "Moxiemanager integration. Use zicht/moxiemanager-bundle >= 3.0"
     }
