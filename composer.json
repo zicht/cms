@@ -32,7 +32,7 @@
         "zicht/filemanager-bundle": "dev-feature/sf2.8 as 4.6.4",
         "zicht/menu-bundle": "dev-feature/sf2.8 as 2.8.6",
         "zicht/messages-bundle": "dev-feature/sf2.8 as 2.5.8",
-        "zicht/page-bundle": "^2.2",
+        "zicht/page-bundle": "dev-feature/sf2.8 as 2.6.1",
         "zicht/symfony-util": "dev-feature/sf2.8 as 1.5.4",
         "zicht/tinymce-bundle": "^1.0",
         "zicht/url-bundle": "dev-feature/sf2.8 as 2.17.0"
