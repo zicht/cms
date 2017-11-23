@@ -8,10 +8,6 @@
         {
             "name": "Muhammed Akbulut",
             "email": "muhammed@zicht.nl"
-        },
-        {
-            "name": "Gerard van Helden",
-            "email": "gerard@zicht.nl"
         }
     ],
     "require": {
@@ -32,7 +28,7 @@
         "zicht/filemanager-bundle": "^4.4",
         "zicht/menu-bundle": "^2",
         "zicht/messages-bundle": "^2.4",
-        "zicht/page-bundle": "^2.2",
+        "zicht/page-bundle": "^3.0",
         "zicht/symfony-util": "^1.3",
         "zicht/tinymce-bundle": "^1.0",
         "zicht/url-bundle": "^2.5"
