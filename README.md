@@ -8,5 +8,6 @@ The packages installed through this package should act stable.
 See the [`zicht/cms-tutorial`](https://github.com/zicht/cms-tutorial) for documentation on how 
 to install the zicht/cms packages and for more documentation and examples.
 
-# Maintainer(s)
-* Muhammed Akbulut <muhammed@zicht.nl>
+# Maintainers
+* Boudewijn Schoon <boudewijn@zicht.nl>
+* Erik Trapman <erik@zicht.nl>
