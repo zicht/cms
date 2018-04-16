@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "php": "^5.6 || ^7.0",
+        "php": "^7.0",
         "doctrine/doctrine-fixtures-bundle": "^2.3",
         "doctrine/doctrine-migrations-bundle": "^1.1",
         "liip/imagine-bundle": "^1.5",
@@ -27,7 +27,7 @@
         "stof/doctrine-extensions-bundle": "^1.2",
         "symfony/monolog-bundle": "^2.11",
         "symfony/swiftmailer-bundle": "^2.3",
-        "symfony/symfony": "^2.7 || ^3.4",
+        "symfony/symfony": "^3.4",
         "zicht/admin-bundle": "dev-feature/sf2.8 as ^4.0",
         "zicht/filemanager-bundle": "dev-feature/sf2.8 as 5.0.0",
         "zicht/menu-bundle": "dev-feature/sf2.8 as 2.8.6",
