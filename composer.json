@@ -28,14 +28,14 @@
         "symfony/monolog-bundle": "^2.11",
         "symfony/swiftmailer-bundle": "^2.3",
         "symfony/symfony": "^2.7 || ^3.4",
-        "zicht/admin-bundle": "dev-feature/sf2.8 as ^3.5",
-        "zicht/filemanager-bundle": "dev-feature/sf2.8 as 4.6.4",
+        "zicht/admin-bundle": "dev-feature/sf2.8 as ^4.0",
+        "zicht/filemanager-bundle": "dev-feature/sf2.8 as 5.0.0",
         "zicht/menu-bundle": "dev-feature/sf2.8 as 2.8.6",
-        "zicht/messages-bundle": "dev-feature/sf2.8 as 2.5.8",
-        "zicht/page-bundle": "dev-feature/sf2.8 as 2.6.1",
+        "zicht/messages-bundle": "dev-feature/sf2.8 as 3.0.0",
+        "zicht/page-bundle": "dev-feature/sf2.8 as 4.0.0",
         "zicht/symfony-util": "dev-feature/sf2.8 as 1.5.4",
         "zicht/tinymce-bundle": "^1.0",
-        "zicht/url-bundle": "dev-feature/sf2.8 as 2.17.0"
+        "zicht/url-bundle": "dev-feature/sf2.8 as 3.0.0"
     }, 
     "suggest": {
         "zicht/moxiemanager-bundle": "Moxiemanager integration. Use zicht/moxiemanager-bundle >= 3.0"
